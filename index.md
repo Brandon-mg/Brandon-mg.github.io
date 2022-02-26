@@ -11,7 +11,7 @@ Made a simple vpn using OpenVPN services that allows me to use aws services to a
 Hosted a few dedicated servers for games to test out my AWS experience and to explore the automation I can implement using Lambda.
 
 #### Terraform Practice
-set up a few servers using Terraform to see the control I have over AWS instances using Terraform.
+To practice with HashiCorp Terraform I set up a few servers using Terraform to see the control I have over AWS instances and What all I can do.
 
 ## Side Projects
 #### Automated 3D printing

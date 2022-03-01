@@ -22,5 +22,8 @@ To practice with HashiCorp Terraform I set up a few servers using Terraform to s
 #### Automated 3D printing
 Set up octoprint and a 3D printer to allow me to control and print models from anywhere during college. 
 
+#### Short python wordle solver
+simple python wordle solver that uses dicts to filter out the possible words. Uses the frequency mappting from 3B1Bs data.
+
 #### Scripts for Personal use
 Made a lot of personalised scripts using AutoHotKey or Python to do Mundane tasks like webscraping, connecting to APIs, Autfilling Forms, Etc.
